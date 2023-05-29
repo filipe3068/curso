@@ -1,0 +1,30 @@
+h1 { /*USE PARA INSERIR FORMATAÇÃO EM TODOS OS TEXTOS H1*/
+
+    color: rgb(23, 236, 23);  /*INSERIR COR NA LETRA */
+    font-size: 50px; /*AUMENTAR A FONTE EM PIXELS*/
+    background-color: aqua; /*INSERIR FUNDO NA PALAVRA*/
+    font-weight: 900; 
+
+}
+
+h2 { /*USE PARA INSERIR FORMATAÇÃO EM TODOS OS TEXTOS H1*/
+
+    color: rgb(236, 23, 154);  /*INSERIR COR NA LETRA */
+    font-size: 50px; /*AUMENTAR A FONTE EM PIXELS*/
+    background-color: aqua; /*INSERIR FUNDO NA PALAVRA*/
+    font-weight: 900; 
+
+}
+
+
+.bg {
+    background-image: url("https://img.freepik.com/vetores-premium/wallpaper-de-paisagem-em-design-plano_74890-34.jpg?w=2000"); 
+    height: 200px;
+    width: 100%;
+    background-size: cover;
+    
+
+
+    }
+
+
