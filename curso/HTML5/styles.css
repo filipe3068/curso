@@ -4,7 +4,7 @@ h1 { /*USE PARA INSERIR FORMATAÇÃO EM TODOS OS TEXTOS H1*/
     font-size: 50px; /*AUMENTAR A FONTE EM PIXELS*/
     background-color: aqua; /*INSERIR FUNDO NA PALAVRA*/
     font-weight: 900; 
-    font-family: Arial, Helvetica, sans-serif;/*INSERIR FONTE DE FORMATAÇÃO*/
+    font-family: 'Comic Neue', cursive;/*INSERIR FONTE DE FORMATAÇÃO*/
 
 }
 
@@ -14,6 +14,7 @@ h2 { /*USE PARA INSERIR FORMATAÇÃO EM TODOS OS TEXTOS H1*/
     font-size: 50px; /*AUMENTAR A FONTE EM PIXELS*/
     background-color: aqua; /*INSERIR FUNDO NA PALAVRA*/
     font-weight: 900; 
+
 
 }
 
