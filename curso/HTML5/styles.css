@@ -1,17 +1,39 @@
+
+
+:root {
+
+    font-size: 62.5%;
+}
+
+p {
+
+  font-size: 2.5rem;
+}
+
+a {
+
+    font-size: 1.5rem;
+
+}
+
+a:visited {
+    color:brown;
+}
+
 h1 { /*USE PARA INSERIR FORMATAÇÃO EM TODOS OS TEXTOS H1*/
 
     color: rgb(207, 115, 28);  /*INSERIR COR NA LETRA */
-    font-size: 50px; /*AUMENTAR A FONTE EM PIXELS*/
+    font-size: 9.6rem; /*AUMENTAR A FONTE EM PIXELS respeitando o limite que esta em root */
     background-color: aqua; /*INSERIR FUNDO NA PALAVRA*/
     font-weight: 900; 
-    font-family: 'Comic Neue', cursive;/*INSERIR FONTE DE FORMATAÇÃO*/
+    /*INSERIR FONTE DE FORMATAÇÃO*/
 
 }
 
 h2 { /*USE PARA INSERIR FORMATAÇÃO EM TODOS OS TEXTOS H1*/
 
     color: rgb(236, 23, 154);  /*INSERIR COR NA LETRA */
-    font-size: 50px; /*AUMENTAR A FONTE EM PIXELS*/
+    font-size: 5.0rem; /*AUMENTAR A FONTE EM PIXELS*/
     background-color: aqua; /*INSERIR FUNDO NA PALAVRA*/
     font-weight: 900; 
 
